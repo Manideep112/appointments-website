@@ -1,0 +1,92 @@
+/* Write your CSS here */
+.bg-container {
+  background-image: linear-gradient(to top, #9796f0, #fbc7d4);
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.content-container {
+  background-color: #ffffff;
+  padding: 15px;
+  font-family: Roboto;
+  border-radius: 5px;
+  width: 80%;
+}
+
+.formOnly {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+}
+.form-container {
+  display: flex;
+  justify-content: space-between;
+}
+
+.heading {
+  color: #171f46;
+}
+
+.heading1 {
+  color: #171f46;
+  font-size: 15px;
+}
+
+.paragraph {
+  color: #b5b7c4;
+  font-size: 13px;
+  font-weight: bold;
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+
+.input-element {
+  padding: 5px;
+  margin-bottom: 10px;
+  border-radius: 5px;
+}
+
+.img-size {
+  width: 40%;
+}
+
+.button {
+  background-color: #8b5cf6;
+  color: white;
+  border: none;
+  padding: 5px;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+.button-stared {
+  background-color: #8b5cf6;
+  color: white;
+  border: none;
+  border-radius: 10px;
+  cursor: pointer;
+  font-size: 10px;
+}
+
+.stared-button {
+  background-color: transparent;
+  border-radius: 10px;
+  font-weight: bold;
+  color: #9897f0;
+  border: 1px solid #9897f0;
+  font-size: 10px;
+  cursor: pointer;
+}
+
+.appointments-container {
+  display: flex;
+  justify-content: space-between;
+}
+
+.unordered-list {
+  display: flex;
+  flex-wrap: wrap;
+  padding: 0px;
+}

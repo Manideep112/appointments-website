@@ -1,0 +1,32 @@
+/* Write your CSS here */
+
+.item-container {
+  border-radius: 5px;
+  display: flex;
+  padding: 5px;
+  border: 1px solid #b5b7c4;
+  align-items: flex-start;
+  width: 250px;
+  justify-content: space-between;
+  font-family: Roboto;
+  margin-left: 10px;
+  margin-bottom: 10px;
+}
+
+.heading1 {
+  font-size: 15px;
+  color: #171f46;
+  font-weight: bold;
+}
+
+.paragraph1 {
+  font-size: 10px;
+  color: #b5b7c4;
+}
+
+button {
+  background-color: transparent;
+  border: none;
+  margin-top: 8px;
+  cursor: pointer;
+}
