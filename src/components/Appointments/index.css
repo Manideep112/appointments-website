@@ -23,6 +23,7 @@
 .form-container {
   display: flex;
   justify-content: space-between;
+  padding-left: 20px;
 }
 
 .heading {
@@ -83,6 +84,7 @@
 .appointments-container {
   display: flex;
   justify-content: space-between;
+  padding-left: 20px;
 }
 
 .unordered-list {
